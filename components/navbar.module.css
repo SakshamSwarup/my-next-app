@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+.navbar__brand {
+  font-size: 1.5rem; /* Corrected from text-size to font-size */
+  font-weight: bold;
+}
+
+.navbar__links {
+  display: inline-block;
+  margin-right: 1rem;
+}
